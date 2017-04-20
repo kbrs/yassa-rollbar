@@ -1,5 +1,5 @@
 {
-    "name": "kbrs/yassa-rollbar",
+    "name": "yassa/rollbar",
     "version": "0.3.0",
     "type": "project",
     "description": "Zend Framework 2 module for connect to Rollbar",
